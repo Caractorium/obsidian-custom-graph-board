@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-custom-graph-board",
+  "name": "Custom Graph Board & Tactical Grid",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Transforms notes into an interactive visual command center with 16-point adaptive splines, smart image cropper, and automatic grid alignment",
+  "author": "Caractorium Siberian Tactical Engineers",
+  "isDesktopOnly": false
+}
